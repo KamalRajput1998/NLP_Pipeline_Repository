@@ -1,2 +1,3 @@
-# NLP_Pipeline_Repository
-Files for NLP pipeline. 
+### Files for NLP pipeline. 
+
+Repository contains a text file that is required to execute a NLP pipeline.
